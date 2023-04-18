@@ -1,0 +1,3 @@
+export JIRA_TOKEN=Mzc4NDE3NTc2MDY0OgdlLdBEhth94FJc9vnOTTR0XtnD
+cd socket-server
+npm start
